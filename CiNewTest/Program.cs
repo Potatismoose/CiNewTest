@@ -6,7 +6,7 @@ namespace CiNewTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! test");
+            Console.WriteLine("Hello World! 2021");
         }
     }
 }
